@@ -1,0 +1,9 @@
+Package: com.orikad.markasreadfornc
+Name: Mark as Read for NC
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Mark as read (read: clears the icon badge) when tapping "clear" in notification center.
+Maintainer: Ori Kadosh
+Author: Ori Kadosh
+Section: Tweaks
